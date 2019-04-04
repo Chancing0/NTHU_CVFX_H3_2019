@@ -1,5 +1,3 @@
-# NTHU_CVFX_H3_2019
-
 # NTHU_CVFX_HomeWork3_Team20
 
 
